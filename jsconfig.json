@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "."
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "jsx-sublime-babel-tags": "javascriptreact"
+  }
+}
