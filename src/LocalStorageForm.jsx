@@ -6,6 +6,7 @@ export function LocalStorageForm() {
 
   return (
     <>
+      <h2>Guardar En LocalStorage</h2>
       <textarea
         placeholder="Texto Persistente"
         onChange={(e) => setText(e.target.value)}
